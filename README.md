@@ -1,1 +1,1 @@
-# ict600s15
+# ICT600 Computational Mathematics
